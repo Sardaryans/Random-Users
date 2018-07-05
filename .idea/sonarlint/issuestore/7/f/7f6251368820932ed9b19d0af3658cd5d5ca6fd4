@@ -1,0 +1,7 @@
+
+`squid:UnusedPrivateMethod"=Remove this unused private "UserItemBindingImpl" constructor.(‘ÈÙñ
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(‰¬›Áÿÿÿÿÿ
+Isquid:S1066"/Merge this if statement with the enclosing one.(¤¦ß‘üÿÿÿÿ
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‰¬›Áÿÿÿÿÿ
+Dsquid:S00108")Either remove or fill this block of code.(‰¬›Áÿÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óª™àúÿÿÿÿ

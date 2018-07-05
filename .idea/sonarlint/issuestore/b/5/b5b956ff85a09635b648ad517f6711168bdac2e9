@@ -1,0 +1,5 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôù•þÿÿÿÿ8©µ›½Æ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áÁé8©µ›½Æ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åí›®ÿÿÿÿÿ8©µ›½Æ,
+Xsquid:UselessImportCheck"*Remove this unused import 'rx.Observable'.( òùÿÿÿÿ8©µ›½Æ,
